@@ -1,0 +1,12 @@
+Uid,Sid,Tag,Key,Time,Value,UpdateTime
+1874626758,default,daily_report,steps,1769817600,"{""calories"":94,""distance"":1374,""steps"":2319}",1769942719
+1874626758,default,daily_report,steps,1769904000,"{""calories"":62,""distance"":939,""steps"":1583}",1769942892
+1874626758,default,daily_report,calories,1769817600,"{""calories"":96}",1769942719
+1874626758,default,daily_report,calories,1769904000,"{""calories"":62}",1769942892
+1874626758,default,daily_mark,weight,1769731200,"{""has_data"":true}",1769892144
+1874626758,default,daily_mark,steps,1769817600,"{""has_data"":true}",1769942719
+1874626758,default,daily_mark,steps,1769904000,"{""has_data"":true}",1769942892
+1874626758,default,daily_mark,calories,1769817600,"{""has_data"":true}",1769942719
+1874626758,default,daily_mark,calories,1769904000,"{""has_data"":true}",1769942892
+1874626758,default,daily_fitness,goal,1769817600,"{""goal_items"":[{""achieved_value"":96,""target_value"":400,""field"":2},{""achieved_value"":2319,""target_value"":6000,""field"":1},{""achieved_value"":0,""target_value"":30,""field"":4}],""date_time"":1769817600,""timeInZero"":1769817600}",1769942719
+1874626758,default,daily_fitness,goal,1769904000,"{""goal_items"":[{""achieved_value"":62,""target_value"":400,""field"":2},{""achieved_value"":1583,""target_value"":6000,""field"":1},{""achieved_value"":0,""target_value"":30,""field"":4}],""date_time"":1769904000,""timeInZero"":1769904000}",1769942892
